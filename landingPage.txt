@@ -1,4 +1,6 @@
 navbar
 header
 main
+galeria
+contactanos
 footer
