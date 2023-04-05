@@ -1,0 +1,7 @@
+name
+last name
+dni
+number
+city
+age
+country
